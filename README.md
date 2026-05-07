@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **MCI Mobile App** – a TypeScript backend project<br>🤝 I'm looking to collaborate on **full-stack JavaScript/TypeScript projects**<br>💛 I'm looking for help with **open source contributions & code reviews**<br>🌱 I'm currently learning **advanced TypeScript, system design & cloud architecture**<br>💬 Ask me about **Node.js, TypeScript, Laravel/PHP, REST APIs & backend development**<br>⚡ Fun fact: **I love building clean, scalable systems from scratch!**
+🔭 I'm currently working on **MCI Mobile App** – a React Native Mobile Application for Both Android and IOS <br>🤝 I'm looking to collaborate on **full-stack JavaScript/TypeScript projects**<br>💛 I'm looking for help with **open source contributions & code reviews**<br>🌱 I'm currently learning **advanced TypeScript, system design & cloud architecture**<br>💬 Ask me about **Node.js, TypeScript, Laravel/PHP, REST APIs & backend development**<br>⚡ Fun fact: **I love building clean, scalable systems from scratch!**
 
 
 ## 🌐 Socials:
